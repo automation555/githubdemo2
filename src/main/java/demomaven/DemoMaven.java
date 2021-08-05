@@ -4,7 +4,7 @@ public class DemoMaven {
 
 	int i=0;
 	
-	int i1=0;
+	int i2=0;
 	public static void main(String[] args) {
 		int k;
 	}
